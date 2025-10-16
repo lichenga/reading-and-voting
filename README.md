@@ -79,7 +79,7 @@
 -  **移动端：** uniapp、华为平板设备MDM、安卓打包
 
 ### 获取演示环境联系添加微信15513671343，备注：无纸化表决
-![输入图片说明]([image.png](https://gitee.com/slightly-tipsy-oranges/reading-and-voting/raw/master/image.png))
+![Alt Text]([图片URL](https://gitee.com/slightly-tipsy-oranges/reading-and-voting/raw/master/image.png))
 
 #### 项目截图
 ![输入图片说明](jietuimage.png)
